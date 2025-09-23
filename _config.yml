@@ -3,7 +3,7 @@ email: sarahpereiradal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esse é um blog de IA, onde serão postados artigos e tutoriais sobre Inteligência Artificial, 
   Aprendizado de Máquina e Ciência de Dados.
-baseurl: "/blog-IA" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sarahlimadev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sarahlimadev
 lang: pt-BR
